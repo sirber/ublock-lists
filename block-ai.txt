@@ -1,0 +1,12 @@
+! Title: Block AI
+! Description: Blocks annoying AI from websites
+! Version: 2025.04.08
+! Expires: 5 days
+! Homepage: https://github.com/sirber/ublock-lists
+! License: https://opensource.org/licenses/MIT
+
+! https://www.notion.so
+www.notion.so##div[id=":r1l:"] > div:nth-of-type(2)
+www.notion.so##div[id=":rr:"] > div:nth-of-type(2)
+www.notion.so##div[id=":r2h:"]
+www.notion.so##a[href="/chat"]
