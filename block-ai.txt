@@ -10,6 +10,7 @@ www.notion.so##div[id=":r1l:"] > div:nth-of-type(2)
 www.notion.so##div[id=":rr:"] > div:nth-of-type(2)
 www.notion.so##div[id=":r2h:"]
 www.notion.so##div[id=":r2a:"]
+www.notion.so##div[id=":r2t:"] > div:nth-of-type(2)
 www.notion.so##a[href="/chat"]
 
 ! https://duckduckgo.com
