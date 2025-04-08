@@ -16,3 +16,4 @@ www.notion.so##a[href="/chat"]
 ! https://duckduckgo.com
 duckduckgo.com##a[data-testid="aichat-button"]
 duckduckgo.com##div[data-testid="duckbar"] nav > ul:nth-of-type(2) > li:first-child
+duckduckgo.com##div[data-react-module-id="wikinlp"]
