@@ -1,6 +1,6 @@
 ! Title: Block AI
 ! Description: Blocks annoying AI from websites
-! Version: 2025.04.08
+! Version: 2025.04.09
 ! Expires: 5 days
 ! Homepage: https://github.com/sirber/ublock-lists
 ! License: https://opensource.org/licenses/MIT
@@ -17,3 +17,8 @@ www.notion.so##a[href="/chat"]
 duckduckgo.com##a[data-testid="aichat-button"]
 duckduckgo.com##div[data-testid="duckbar"] nav > ul:nth-of-type(2) > li:first-child
 duckduckgo.com##div[data-react-module-id="wikinlp"]
+
+! http://bing.com
+www.bing.com##.ca_main
+www.bing.com###b-scopeListItem-conv > [href^="https://www.bing.com/ck/a"]
+www.bing.com###b_phead_chat
